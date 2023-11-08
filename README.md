@@ -4,4 +4,4 @@ Inspection of the data from the [📈 2019 StockX data contest](https://stockx.c
 
 See the [🗒️ jupyter notebook](./stockx_data_inspection.ipynb).
 
-![US buyer locations](./img/us_buyer_locations.png)
+[![US buyer locations](./img/us_buyer_locations.png)](./stockx_data_inspection.ipynb)
