@@ -1,6 +1,6 @@
 # StockX Data Inspection
 
-<a target="_blank" href="https://colab.research.google.com/github/Davideck123/stockx-data-inspection/blob/master/stockx_data_inspection.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/davidruda/stockx-data-inspection/blob/master/stockx_data_inspection.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
